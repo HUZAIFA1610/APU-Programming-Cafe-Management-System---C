@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <string.h>
+//#include <conio.h>
+
+void mainmenu();
+void adminlogin();
+void adminmenu();
+void addtutor();
+void addstudent();
+void addprgcafses();
+void distutor();
+void disprgcafses();
+void disregstud();
+void distutorid();
+void dissessionid();
+void disstudid();
+void modtutor();
+void modprgcafses();
+void modstudent();
+void addstudses();
+void distutorses();
+void disstudlist();
+void disstudses();
+void tutorlogin();
+void tutormenu();
+void studentlogin();
+void studentmenu();
